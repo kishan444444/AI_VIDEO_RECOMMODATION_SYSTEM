@@ -1,0 +1,12 @@
+numpy
+pandas
+scikit-learn
+seaborn
+ipykernel
+Flask
+mlflow==2.2.2
+streamlit
+dvc
+surprise
+nltk
+tensorflow
